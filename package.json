@@ -1,6 +1,6 @@
 {
   "name": "fela-preset-lusk",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Fela plugin presets used at Lusk",
   "main": "index.js",
   "keywords": [
