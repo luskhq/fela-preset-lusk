@@ -1,4 +1,5 @@
 module.exports = {
   env: { node: true },
-  extends: ["lusk"]
+  extends: ["lusk"],
+  rules: { "no-var": 0 }
 };
